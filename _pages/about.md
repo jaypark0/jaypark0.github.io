@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    [hyeong@kaist.ac.kr](mailto:hyeong@kaist.ac.kr)
+    <a href="mailto:hyeong@kaist.ac.kr">hyeong@kaist.ac.kr</a>
     <!-- <p>123 your address street</p> -->
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
