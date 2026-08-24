@@ -28,12 +28,5 @@ latest_posts:
 
 I am a PhD candidate in Management Engineering (Information System) in the [AIBA Lab](https://aiba.kaist.ac.kr/) at KAIST, advised by [Prof. Donghyuk Shin](https://dshin32.github.io/). I received my M.S. degree in Management Engineering from KAIST and earned my bachelor's degrees in Business Administration and Computer Science.
 
-My research focuses on the computational social science of human-AI interaction. Currently, I work on improving the reliability of LLM-based simulations of human behavior, so that they better reflect genuine social dynamics rather than model artifacts. Previously, I studied how digital innovation shapes stakeholder decision-making, drawing on large-scale behavioral data.
+My research explores the relationship between human behavior and digital technologies, including AI. I currently focus on developing more reliable LLM-based simulations of human behavior for studying social phenomena. Earlier, my work examined how digital innovation influences stakeholder decision-making, drawing on large-scale behavioral data.
 
-<style>
-  /* 기존 selected publications 링크 제거 (클릭 불가) */
-  .publications h2 a { display: none !important; }
-  
-  /* 그 자리에 클릭 안 되는 순수 텍스트 제목 표기 */
-  .publications h2::after { content: "Recent Researches"; }
-</style>
