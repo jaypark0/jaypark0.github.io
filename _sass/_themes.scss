@@ -3,7 +3,7 @@
  ******************************************************************************/
 @use "variables" as v;
 @use "sass:color";
-
+ 
 :root {
   color-scheme: light;
   --global-bg-color: #{v.$white-color};
